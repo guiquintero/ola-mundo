@@ -1,0 +1,11 @@
+.link {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: var(--cor-fonte-principal);
+}
+
+.linkDestacado{
+    background-color: rgb(100, 76, 167);
+    padding: 5px 14px;
+    border-radius: 5px;
+}
