@@ -9,8 +9,9 @@ This is a project from Alura that I undertook to enhance my knowledge of JavaScr
   <li>JavaScript methods to add functionality to the page</li>
   <li>Nested and dynamic routes</li>
 </ul>
-![image](https://github.com/guiquintero/ola-mundo/assets/62731566/ef6cc228-6c71-44be-a79d-9bc5c440447c)
 
+
+![Captura de tela 2023-12-28 224915](https://github.com/guiquintero/ola-mundo/assets/62731566/b89529b5-6327-4725-a53f-a6bd17e4eb28)
 
 To see more details, click on the link below:
 
